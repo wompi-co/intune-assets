@@ -1,5 +1,5 @@
 <config version="1.0">
-	<distribution_id>17eeed7e375f40a5bc93e3a9ca7c52ef</distribution_id>
+	<distribution_id>ff2f989534e14aaa80a579b675065820</distribution_id>
 	<cloud_elb_address>https://distributions.traps.paloaltonetworks.com</cloud_elb_address>
 	<endpoint_tags>WOMPI</endpoint_tags>
     <proxy_list />
